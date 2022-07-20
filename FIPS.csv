@@ -1,0 +1,442 @@
+CBSA Title,FIPS State Code,FIPS County Code,code,coef
+"Albany-Schenectady-Troy, NY",36,1,51,0.200219084
+"Albany-Schenectady-Troy, NY",36,83,51,0.200219084
+"Albany-Schenectady-Troy, NY",36,91,51,0.200219084
+"Albany-Schenectady-Troy, NY",36,93,51,0.200219084
+"Albany-Schenectady-Troy, NY",36,95,51,0.200219084
+"Albuquerque, NM",35,1,62,0.170318917
+"Albuquerque, NM",35,43,62,0.170318917
+"Albuquerque, NM",35,57,62,0.170318917
+"Albuquerque, NM",35,61,62,0.170318917
+"Atlanta-Sandy Springs-Alpharetta, GA",13,13,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,15,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,35,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,45,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,57,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,63,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,67,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,77,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,85,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,89,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,97,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,113,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,117,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,121,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,135,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,143,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,149,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,151,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,159,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,171,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,199,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,211,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,217,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,223,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,227,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,231,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,247,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,255,13,0.196693767
+"Atlanta-Sandy Springs-Alpharetta, GA",13,297,13,0.196693767
+"Austin-Round Rock-Georgetown, TX",48,21,40,0.460275306
+"Austin-Round Rock-Georgetown, TX",48,55,40,0.460275306
+"Austin-Round Rock-Georgetown, TX",48,209,40,0.460275306
+"Austin-Round Rock-Georgetown, TX",48,453,40,0.460275306
+"Austin-Round Rock-Georgetown, TX",48,491,40,0.460275306
+"Baltimore-Columbia-Towson, MD",24,3,20,0.226602644
+"Baltimore-Columbia-Towson, MD",24,5,20,0.226602644
+"Baltimore-Columbia-Towson, MD",24,13,20,0.226602644
+"Baltimore-Columbia-Towson, MD",24,25,20,0.226602644
+"Baltimore-Columbia-Towson, MD",24,27,20,0.226602644
+"Baltimore-Columbia-Towson, MD",24,35,20,0.226602644
+"Baltimore-Columbia-Towson, MD",24,510,20,0.226602644
+"Boston-Cambridge-Newton, MA-NH",25,21,9,0.293621334
+"Boston-Cambridge-Newton, MA-NH",25,23,9,0.293621334
+"Boston-Cambridge-Newton, MA-NH",25,25,9,0.293621334
+"Boston-Cambridge-Newton, MA-NH",25,9,9,0.293621334
+"Boston-Cambridge-Newton, MA-NH",25,17,9,0.293621334
+"Boston-Cambridge-Newton, MA-NH",33,15,9,0.293621334
+"Boston-Cambridge-Newton, MA-NH",33,17,9,0.293621334
+"Buffalo-Cheektowaga, NY",36,29,41,0.20075857
+"Buffalo-Cheektowaga, NY",36,63,41,0.20075857
+"Charlotte-Concord-Gastonia, NC-SC",37,7,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,25,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,71,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,97,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,109,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,119,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,159,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",37,179,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",45,23,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",45,57,27,0.185410608
+"Charlotte-Concord-Gastonia, NC-SC",45,91,27,0.185410608
+"Chicago-Naperville-Elgin, IL-IN-WI",17,31,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,43,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,63,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,111,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,197,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,37,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,89,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,93,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",18,73,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",18,89,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",18,111,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",18,127,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",17,97,3,0.15130938
+"Chicago-Naperville-Elgin, IL-IN-WI",55,59,3,0.15130938
+"Cincinnati, OH-KY-IN",18,29,24,0.181545802
+"Cincinnati, OH-KY-IN",18,47,24,0.181545802
+"Cincinnati, OH-KY-IN",18,115,24,0.181545802
+"Cincinnati, OH-KY-IN",18,161,24,0.181545802
+"Cincinnati, OH-KY-IN",21,15,24,0.181545802
+"Cincinnati, OH-KY-IN",21,23,24,0.181545802
+"Cincinnati, OH-KY-IN",21,37,24,0.181545802
+"Cincinnati, OH-KY-IN",21,77,24,0.181545802
+"Cincinnati, OH-KY-IN",21,81,24,0.181545802
+"Cincinnati, OH-KY-IN",21,117,24,0.181545802
+"Cincinnati, OH-KY-IN",21,191,24,0.181545802
+"Cincinnati, OH-KY-IN",39,15,24,0.181545802
+"Cincinnati, OH-KY-IN",39,17,24,0.181545802
+"Cincinnati, OH-KY-IN",39,25,24,0.181545802
+"Cincinnati, OH-KY-IN",39,61,24,0.181545802
+"Cincinnati, OH-KY-IN",39,165,24,0.181545802
+"Cleveland-Elyria, OH",39,35,23,0.161286816
+"Cleveland-Elyria, OH",39,55,23,0.161286816
+"Cleveland-Elyria, OH",39,85,23,0.161286816
+"Cleveland-Elyria, OH",39,93,23,0.161286816
+"Cleveland-Elyria, OH",39,103,23,0.161286816
+"Columbus, OH",39,41,29,0.199281686
+"Columbus, OH",39,45,29,0.199281686
+"Columbus, OH",39,49,29,0.199281686
+"Columbus, OH",39,73,29,0.199281686
+"Columbus, OH",39,89,29,0.199281686
+"Columbus, OH",39,97,29,0.199281686
+"Columbus, OH",39,117,29,0.199281686
+"Columbus, OH",39,127,29,0.199281686
+"Columbus, OH",39,129,29,0.199281686
+"Columbus, OH",39,159,29,0.199281686
+"Dallas-Fort Worth-Arlington, TX",48,85,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,113,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,121,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,139,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,231,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,257,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,397,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,251,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,367,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,439,5,0.210472838
+"Dallas-Fort Worth-Arlington, TX",48,497,5,0.210472838
+"Denver-Aurora-Lakewood, CO",8,1,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,5,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,14,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,19,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,31,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,35,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,39,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,47,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,59,21,0.247782759
+"Denver-Aurora-Lakewood, CO",8,93,21,0.247782759
+"Detroit-Warren-Dearborn, MI",26,163,6,0.259609757
+"Detroit-Warren-Dearborn, MI",26,87,6,0.259609757
+"Detroit-Warren-Dearborn, MI",26,93,6,0.259609757
+"Detroit-Warren-Dearborn, MI",26,99,6,0.259609757
+"Detroit-Warren-Dearborn, MI",26,125,6,0.259609757
+"Detroit-Warren-Dearborn, MI",26,147,6,0.259609757
+"Hartford-East Hartford-Middletown, CT",9,3,43,0.189411825
+"Hartford-East Hartford-Middletown, CT",9,7,43,0.189411825
+"Hartford-East Hartford-Middletown, CT",9,13,43,0.189411825
+"Houston-The Woodlands-Sugar Land, TX",48,15,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,39,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,71,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,157,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,167,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,201,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,291,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,339,10,0.173896314
+"Houston-The Woodlands-Sugar Land, TX",48,473,10,0.173896314
+"Indianapolis-Carmel-Anderson, IN",18,11,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,13,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,57,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,59,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,63,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,81,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,95,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,97,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,109,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,133,33,0.183900572
+"Indianapolis-Carmel-Anderson, IN",18,145,33,0.183900572
+"Jacksonville, FL",12,3,50,0.184060484
+"Jacksonville, FL",12,19,50,0.184060484
+"Jacksonville, FL",12,31,50,0.184060484
+"Jacksonville, FL",12,89,50,0.184060484
+"Jacksonville, FL",12,109,50,0.184060484
+"Kansas City, MO-KS",20,91,25,0.191919854
+"Kansas City, MO-KS",20,103,25,0.191919854
+"Kansas City, MO-KS",20,107,25,0.191919854
+"Kansas City, MO-KS",20,121,25,0.191919854
+"Kansas City, MO-KS",20,209,25,0.191919854
+"Kansas City, MO-KS",29,13,25,0.191919854
+"Kansas City, MO-KS",29,25,25,0.191919854
+"Kansas City, MO-KS",29,37,25,0.191919854
+"Kansas City, MO-KS",29,47,25,0.191919854
+"Kansas City, MO-KS",29,49,25,0.191919854
+"Kansas City, MO-KS",29,95,25,0.191919854
+"Kansas City, MO-KS",29,107,25,0.191919854
+"Kansas City, MO-KS",29,165,25,0.191919854
+"Kansas City, MO-KS",29,177,25,0.191919854
+"Las Vegas-Henderson-Paradise, NV",32,3,31,0.340180846
+"Los Angeles-Long Beach-Anaheim, CA",6,59,2,0.197374211
+"Los Angeles-Long Beach-Anaheim, CA",6,37,2,0.197374211
+"Louisville/Jefferson County, KY-IN",18,19,42,0.182085555
+"Louisville/Jefferson County, KY-IN",18,43,42,0.182085555
+"Louisville/Jefferson County, KY-IN",18,61,42,0.182085555
+"Louisville/Jefferson County, KY-IN",18,175,42,0.182085555
+"Louisville/Jefferson County, KY-IN",21,29,42,0.182085555
+"Louisville/Jefferson County, KY-IN",21,103,42,0.182085555
+"Louisville/Jefferson County, KY-IN",21,111,42,0.182085555
+"Louisville/Jefferson County, KY-IN",21,185,42,0.182085555
+"Louisville/Jefferson County, KY-IN",21,211,42,0.182085555
+"Louisville/Jefferson County, KY-IN",21,215,42,0.182085555
+"Miami-Fort Lauderdale-Pompano Beach, FL",12,11,8,0.157945243
+"Miami-Fort Lauderdale-Pompano Beach, FL",12,86,8,0.157945243
+"Miami-Fort Lauderdale-Pompano Beach, FL",12,99,8,0.157945243
+"Milwaukee-Waukesha, WI",55,79,32,0.113725771
+"Milwaukee-Waukesha, WI",55,89,32,0.113725771
+"Milwaukee-Waukesha, WI",55,131,32,0.113725771
+"Milwaukee-Waukesha, WI",55,133,32,0.113725771
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,3,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,19,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,25,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,37,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,53,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,59,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,79,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,95,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,123,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,139,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,141,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,163,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",27,171,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",55,93,15,0.183753313
+"Minneapolis-St. Paul-Bloomington, MN-WI",55,109,15,0.183753313
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,15,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,21,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,37,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,43,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,111,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,119,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,147,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,149,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,159,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,165,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,169,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,187,39,0.188050557
+"Nashville-Davidson--Murfreesboro--Franklin, TN",47,189,39,0.188050557
+"New Orleans-Metairie, LA",22,51,37,0.15380697
+"New Orleans-Metairie, LA",22,71,37,0.15380697
+"New Orleans-Metairie, LA",22,75,37,0.15380697
+"New Orleans-Metairie, LA",22,87,37,0.15380697
+"New Orleans-Metairie, LA",22,89,37,0.15380697
+"New Orleans-Metairie, LA",22,93,37,0.15380697
+"New Orleans-Metairie, LA",22,95,37,0.15380697
+"New Orleans-Metairie, LA",22,103,37,0.15380697
+"New York-Newark-Jersey City, NY-NJ-PA",36,59,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,103,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,13,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,19,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,27,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,37,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,39,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",42,103,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,23,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,25,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,29,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,35,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,3,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,17,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",34,31,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,5,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,47,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,61,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,79,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,81,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,85,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,87,1,0.358325242
+"New York-Newark-Jersey City, NY-NJ-PA",36,119,1,0.358325242
+"Oklahoma City, OK",40,17,38,0.114427371
+"Oklahoma City, OK",40,27,38,0.114427371
+"Oklahoma City, OK",40,51,38,0.114427371
+"Oklahoma City, OK",40,81,38,0.114427371
+"Oklahoma City, OK",40,83,38,0.114427371
+"Oklahoma City, OK",40,87,38,0.114427371
+"Oklahoma City, OK",40,109,38,0.114427371
+"Omaha-Council Bluffs, NE-IA",19,85,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",19,129,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",19,155,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",31,25,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",31,55,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",31,153,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",31,155,47,0.090921889
+"Omaha-Council Bluffs, NE-IA",31,177,47,0.090921889
+"Orlando-Kissimmee-Sanford, FL",12,69,46,0.261894921
+"Orlando-Kissimmee-Sanford, FL",12,95,46,0.261894921
+"Orlando-Kissimmee-Sanford, FL",12,97,46,0.261894921
+"Orlando-Kissimmee-Sanford, FL",12,117,46,0.261894921
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34,5,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34,7,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34,15,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,17,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,29,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,91,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,45,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42,101,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",10,3,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",24,15,4,0.213284291
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34,33,4,0.213284291
+"Phoenix-Mesa-Chandler, AZ",4,13,12,0.141608399
+"Phoenix-Mesa-Chandler, AZ",4,21,12,0.141608399
+"Pittsburgh, PA",42,3,19,0.158135808
+"Pittsburgh, PA",42,5,19,0.158135808
+"Pittsburgh, PA",42,7,19,0.158135808
+"Pittsburgh, PA",42,19,19,0.158135808
+"Pittsburgh, PA",42,51,19,0.158135808
+"Pittsburgh, PA",42,125,19,0.158135808
+"Pittsburgh, PA",42,129,19,0.158135808
+"Portland-Vancouver-Hillsboro, OR-WA",41,5,26,0.348478791
+"Portland-Vancouver-Hillsboro, OR-WA",41,9,26,0.348478791
+"Portland-Vancouver-Hillsboro, OR-WA",41,51,26,0.348478791
+"Portland-Vancouver-Hillsboro, OR-WA",41,67,26,0.348478791
+"Portland-Vancouver-Hillsboro, OR-WA",41,71,26,0.348478791
+"Portland-Vancouver-Hillsboro, OR-WA",53,11,26,0.348478791
+"Portland-Vancouver-Hillsboro, OR-WA",53,59,26,0.348478791
+"Providence-Warwick, RI-MA",25,5,34,0.190224635
+"Providence-Warwick, RI-MA",44,1,34,0.190224635
+"Providence-Warwick, RI-MA",44,3,34,0.190224635
+"Providence-Warwick, RI-MA",44,5,34,0.190224635
+"Providence-Warwick, RI-MA",44,7,34,0.190224635
+"Providence-Warwick, RI-MA",44,9,34,0.190224635
+"Raleigh-Cary, NC",37,69,63,0.279588795
+"Raleigh-Cary, NC",37,101,63,0.279588795
+"Raleigh-Cary, NC",37,183,63,0.279588795
+"Richmond, VA",51,7,49,0.179433182
+"Richmond, VA",51,36,49,0.179433182
+"Richmond, VA",51,41,49,0.179433182
+"Richmond, VA",51,53,49,0.179433182
+"Richmond, VA",51,75,49,0.179433182
+"Richmond, VA",51,85,49,0.179433182
+"Richmond, VA",51,87,49,0.179433182
+"Richmond, VA",51,97,49,0.179433182
+"Richmond, VA",51,101,49,0.179433182
+"Richmond, VA",51,127,49,0.179433182
+"Richmond, VA",51,145,49,0.179433182
+"Richmond, VA",51,149,49,0.179433182
+"Richmond, VA",51,183,49,0.179433182
+"Richmond, VA",51,570,49,0.179433182
+"Richmond, VA",51,670,49,0.179433182
+"Richmond, VA",51,730,49,0.179433182
+"Richmond, VA",51,760,49,0.179433182
+"Riverside-San Bernardino-Ontario, CA",6,65,16,0.139092097
+"Riverside-San Bernardino-Ontario, CA",6,71,16,0.139092097
+"Rochester, NY",36,51,45,0.183141593
+"Rochester, NY",36,55,45,0.183141593
+"Rochester, NY",36,69,45,0.183141593
+"Rochester, NY",36,73,45,0.183141593
+"Rochester, NY",36,117,45,0.183141593
+"Rochester, NY",36,123,45,0.183141593
+"Sacramento-Roseville-Folsom, CA",6,17,28,0.264494731
+"Sacramento-Roseville-Folsom, CA",6,61,28,0.264494731
+"Sacramento-Roseville-Folsom, CA",6,67,28,0.264494731
+"Sacramento-Roseville-Folsom, CA",6,113,28,0.264494731
+"St. Louis, MO-IL",17,5,17,0.128557933
+"St. Louis, MO-IL",17,13,17,0.128557933
+"St. Louis, MO-IL",17,27,17,0.128557933
+"St. Louis, MO-IL",17,83,17,0.128557933
+"St. Louis, MO-IL",17,117,17,0.128557933
+"St. Louis, MO-IL",17,119,17,0.128557933
+"St. Louis, MO-IL",17,133,17,0.128557933
+"St. Louis, MO-IL",17,163,17,0.128557933
+"St. Louis, MO-IL",29,71,17,0.128557933
+"St. Louis, MO-IL",29,99,17,0.128557933
+"St. Louis, MO-IL",29,113,17,0.128557933
+"St. Louis, MO-IL",29,183,17,0.128557933
+"St. Louis, MO-IL",29,189,17,0.128557933
+"St. Louis, MO-IL",29,219,17,0.128557933
+"St. Louis, MO-IL",29,510,17,0.128557933
+"Salt Lake City, UT",49,35,54,0.191298155
+"Salt Lake City, UT",49,45,54,0.191298155
+"San Antonio-New Braunfels, TX",48,13,30,0.163999172
+"San Antonio-New Braunfels, TX",48,19,30,0.163999172
+"San Antonio-New Braunfels, TX",48,29,30,0.163999172
+"San Antonio-New Braunfels, TX",48,91,30,0.163999172
+"San Antonio-New Braunfels, TX",48,187,30,0.163999172
+"San Antonio-New Braunfels, TX",48,259,30,0.163999172
+"San Antonio-New Braunfels, TX",48,325,30,0.163999172
+"San Antonio-New Braunfels, TX",48,493,30,0.163999172
+"San Diego-Chula Vista-Carlsbad, CA",6,73,22,0.261157723
+"San Francisco-Oakland-Berkeley, CA",6,1,11,0.399999769
+"San Francisco-Oakland-Berkeley, CA",6,13,11,0.399999769
+"San Francisco-Oakland-Berkeley, CA",6,75,11,0.399999769
+"San Francisco-Oakland-Berkeley, CA",6,81,11,0.399999769
+"San Francisco-Oakland-Berkeley, CA",6,41,11,0.399999769
+"San Jose-Sunnyvale-Santa Clara, CA",6,69,36,0.303143278
+"San Jose-Sunnyvale-Santa Clara, CA",6,85,36,0.303143278
+"Seattle-Tacoma-Bellevue, WA",53,33,14,0.320193206
+"Seattle-Tacoma-Bellevue, WA",53,61,14,0.320193206
+"Seattle-Tacoma-Bellevue, WA",53,53,14,0.320193206
+"Tampa-St. Petersburg-Clearwater, FL",12,53,18,0.200719107
+"Tampa-St. Petersburg-Clearwater, FL",12,57,18,0.200719107
+"Tampa-St. Petersburg-Clearwater, FL",12,101,18,0.200719107
+"Tampa-St. Petersburg-Clearwater, FL",12,103,18,0.200719107
+"Tucson, AZ",4,19,56,0.094918079
+"Tulsa, OK",40,37,52,0.070684877
+"Tulsa, OK",40,111,52,0.070684877
+"Tulsa, OK",40,113,52,0.070684877
+"Tulsa, OK",40,117,52,0.070684877
+"Tulsa, OK",40,131,52,0.070684877
+"Tulsa, OK",40,143,52,0.070684877
+"Tulsa, OK",40,145,52,0.070684877
+"Virginia Beach-Norfolk-Newport News, VA-NC",37,29,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",37,53,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",37,73,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,73,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,93,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,95,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,115,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,175,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,199,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,550,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,620,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,650,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,700,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,710,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,735,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,740,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,800,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,810,35,0.137877617
+"Virginia Beach-Norfolk-Newport News, VA-NC",51,830,35,0.137877617
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",24,21,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",24,31,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",11,1,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",24,9,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",24,17,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",24,33,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,13,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,43,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,47,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,59,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,61,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,107,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,113,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,153,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,157,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,177,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,179,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,187,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,510,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,600,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,610,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,630,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,683,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,685,7,0.21676163
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",54,37,7,0.21676163
+"Worcester, MA-CT",9,15,53,0.215969511
+"Worcester, MA-CT",25,27,53,0.215969511
