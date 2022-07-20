@@ -13,3 +13,7 @@ Then, we run an VAR model on both of those time series and get the coefficients 
 In addition to that, we also created a TSA graph. 
 
 <img src="https://github.com/JunoWuu/Datathon/blob/master/tsa_forecast.png">
+
+Most importantly, we find that LGBTQ population can significantly predict the coefficient(COVID'S affect on employment) even after controlling to related variables. 
+
+<img src="https://github.com/JunoWuu/Datathon/blob/master/significance.png">
