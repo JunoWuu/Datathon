@@ -11,4 +11,5 @@ Then, we run an VAR model on both of those time series and get the coefficients 
 <img src="https://github.com/JunoWuu/Datathon/blob/master/Screen%20Shot%202022-07-20%20at%208.17.07%20AM.png">
 
 In addition to that, we also created a TSA graph. 
+
 <img src="https://github.com/JunoWuu/Datathon/blob/master/tsa_forecast.png">
