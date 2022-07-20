@@ -9,3 +9,6 @@ Here, we are making a general observation on how emplyment and COVID new cases c
 
 Then, we run an VAR model on both of those time series and get the coefficients of different MSAs. We use those to create an interactive map. 
 <img src="https://github.com/JunoWuu/Datathon/blob/master/Screen%20Shot%202022-07-20%20at%208.17.07%20AM.png">
+
+In addition to that, we also created a TSA graph. 
+<img src="https://github.com/JunoWuu/Datathon/blob/master/tsa_forecast.png">
