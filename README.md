@@ -4,4 +4,5 @@ Our group is interested in the impact of the COVID pandemic on the Job Market, w
 
 ## Results
 
-Here, we are testing whether each variable is associated with future teen pregnancy possibility. To test this, I used Chi-square test. Here, each variable is tested independently. The results are in the graph:
+Here, we are making a general observation on how emplyment and COVID new cases change over the time in the United States. 
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Chisquare.png">
