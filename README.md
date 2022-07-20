@@ -5,4 +5,4 @@ Our group is interested in the impact of the COVID pandemic on the Job Market, w
 ## Results
 
 Here, we are making a general observation on how emplyment and COVID new cases change over the time in the United States. 
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Chisquare.png">
+<img src="https://github.com/JunoWuu/Datathon/blob/master/time_series.png">
