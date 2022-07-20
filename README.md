@@ -17,3 +17,5 @@ In addition to that, we also created a TSA graph.
 Most importantly, we find that LGBTQ population can significantly predict the coefficient(COVID'S affect on employment) even after controlling to related variables. 
 
 <img src="https://github.com/JunoWuu/Datathon/blob/master/significance.png">
+
+These findings imply that cities with different LGBTQ population’s employment are affected by COVID differently. It is possible that LGBTQ population are more severely impacted by COVID in their career. It warns us that more study and attention to be paid to this group especially when COVID is not over yet.  
